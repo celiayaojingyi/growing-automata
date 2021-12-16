@@ -1,0 +1,18 @@
+The project will be based on [1]. For your start, you can do the following steps:
+1. Repeat the work of [1]. When you click "try in a notebook" buttom on the website [1], you will find the code implemented with Tensorflow 2.x. You can use these codes. The codes are also available on Github [2].Or if you prefer Pytorch, you can also use this implementation [3]. I have already tried [3].
+
+2. Train a model with your own image, for example, the attached image;
+
+3.  First task of your main project: implement a function to simulate the behavior of a tumor cell flowing along blood vessel:
+
+  a. A tumor cell can move mainly along vessels (you can draw a vessel map by yourself) like a particle. You can check the particle simulation codes in [4]. What you need to implement is very similar. But the particles will be restricted in blood vessels.
+
+  b. A tumor cell has a certain probability to go though blood vessels via capillary vessels. Then a tumor will reach normal brain tissue. Then it will behave as a new seeds and starts to grow to a tumor.
+[1] https://distill.pub/2020/growing-ca/
+
+[2] https://github.com/YixingHuang/post--growing-ca
+
+[3] https://github.com/chenmingxiang110/Growing-Neural-Cellular-Automata
+
+[4] https://github.com/YixingHuang/Growing-Neural-Cellular-Automata-Pytorch
+
