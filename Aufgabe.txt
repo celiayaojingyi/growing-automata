@@ -16,3 +16,15 @@ The project will be based on [1]. For your start, you can do the following steps
 
 [4] https://github.com/YixingHuang/Growing-Neural-Cellular-Automata-Pytorch
 
+#####################################################
+
+The following two links are public datasets of glioma:
+
+[1] https://wiki.cancerimagingarchive.net/display/Public/TCGA-GBM
+
+[2] https://wiki.cancerimagingarchive.net/display/Public/TCGA-LGG
+
+
+You can also check others in the cancer imaging archive:
+
+https://www.cancerimagingarchive.net/collections/
